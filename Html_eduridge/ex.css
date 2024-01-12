@@ -1,0 +1,15 @@
+p{
+    background-color: blueviolet ; border-style:double; padding:10px; margin: 70px;
+}
+h1{
+    background-color: burlywood; border-style: dashed; padding-left: 100px;
+}
+h2{
+    background-color: crimson; border-style: dotted;
+}
+h3{
+    background-color: darkcyan; border-style: groove;
+}
+h4{
+    background-color: darkmagenta; border-style: inherit;
+}
